@@ -1,0 +1,23 @@
+{
+  "name": "lest",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Darius I. Karel <me@dikarel.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "zepto": "^1.1.6"
+  },
+  "devDependencies": {
+    "zepto": "^1.1.6"
+  }
+}
